@@ -48,21 +48,21 @@ Don't want to build it from source? You can download the ready-to-use Windows In
 
 ---
 
-## 👨‍💻 Anggota Tim / Developers
+## 👨‍💻 Developers / Team Members
 
 This project was developed collaboratively by our awesome team:
 
-| Name | NIM |
+| Name | Student ID (NIM) |
 | :--- | :--- |
 | **Anisa Aulia** | 3.34.25.1.04 |
 | **Jizdan Yuflikh R** | 3.34.25.1.12 |
 | **Kafka Nafisa** | 3.34.25.1.13 |
 | **Nazriel Farras Khairiya P S** | 3.34.25.1.20 |
 
-## ℹ️ Informasi Proyek
+## ℹ️ Project Information
 
-- **Mata Kuliah:** Pemrograman Berorientasi Objek (PBO)
-- **Dosen Pengampu:** Bapak Arif Fitra Setyawan S,Pd., M.Kom.
+- **Course:** Object-Oriented Programming (PBO)
+- **Lecturer:** Bapak Arif Fitra Setyawan S.Pd., M.Kom.
 - **Tech Stack:** Java Swing (GUI), File I/O (CSV Storage), OOP Design
 
 ## 📝 License
