@@ -1,10 +1,10 @@
-# 💸 MoneyFlow
+# 💸 MoneyFlow Pro
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-**MoneyFlow** is a modern, lightweight, and user-friendly Personal Finance Management desktop application built with Java Swing. It helps you track your daily income and expenses with beautiful 3D charts and an intuitive user interface. 
+**MoneyFlow Pro** is a simple, premium personal finance tracker built to manage incomes, expenses, and statistics. 
 
 This project was developed as a Final Project for the Object-Oriented Programming (PBO) course.
 
@@ -48,9 +48,17 @@ Don't want to build it from source? You can download the ready-to-use Windows In
 
 ---
 
-## 👨‍💻 Developer
-Developed with ❤️ by **EVRT10** for the PBO (Pemrograman Berorientasi Objek) Course.
-- **Lecturer**: Bapak Arif Fitra Setyawan S.Pd., M.Kom.
+## 👨‍💻 Anggota Tim / Developers
+Developed with ❤️ by the MoneyFlow Team:
+- **Anisa Aulia** (NIM: 3.34.25.1.04)
+- **Jizdan Yuflikh R** (NIM: 3.34.25.1.12)
+- **Kafka Nafisa** (NIM: 3.34.25.1.13)
+- **Nazriel Farras Khairiya P S** (NIM: 3.34.25.1.20)
+
+## 📋 Informasi Proyek
+- **Mata Kuliah**: Pemrograman Berorientasi Objek (PBO)
+- **Dosen Pengampu**: Bapak Arif Fitra Setyawan S.Pd., M.Kom.
+- **Tech Stack**: Java Swing (GUI), File I/O (CSV Storage), OOP Design
 
 ## 📝 License
 This project is intended for educational purposes.
