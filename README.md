@@ -49,7 +49,7 @@ Don't want to build it from source? You can download the ready-to-use Windows In
 ---
 
 ## 👨‍💻 Developer
-Developed with ❤️ by **EVRT10** for the PBO (Pemrograman Berorientasi Objek) Course.
+Developed with ❤️ by **Team 4** for the PBO (Pemrograman Berorientasi Objek) Course.
 - **Lecturer**: Bapak Arif Fitra Setyawan S.Pd., M.Kom.
 
 ## 📝 License
