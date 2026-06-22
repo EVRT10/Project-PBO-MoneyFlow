@@ -1,0 +1,14 @@
+# Compiled class files
+*.class
+bin/
+
+# Package Files
+*.jar
+*.war
+*.exe
+*.msi
+
+# Build and Installer directories
+dist/
+dist-installer/
+Output/
