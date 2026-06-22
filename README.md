@@ -4,7 +4,7 @@
 ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-**MoneyFlow Pro** is a simple, premium personal finance tracker built to manage incomes, expenses, and statistics. 
+**MoneyFlow Pro** is a simple, premium personal finance tracker built to manage incomes, expenses, and statistics. It helps you track your daily cash flow with beautiful 3D charts and an intuitive user interface. 
 
 This project was developed as a Final Project for the Object-Oriented Programming (PBO) course.
 
@@ -49,16 +49,21 @@ Don't want to build it from source? You can download the ready-to-use Windows In
 ---
 
 ## 👨‍💻 Anggota Tim / Developers
-Developed with ❤️ by the MoneyFlow Team:
-- **Anisa Aulia** (NIM: 3.34.25.1.04)
-- **Jizdan Yuflikh R** (NIM: 3.34.25.1.12)
-- **Kafka Nafisa** (NIM: 3.34.25.1.13)
-- **Nazriel Farras Khairiya P S** (NIM: 3.34.25.1.20)
 
-## 📋 Informasi Proyek
-- **Mata Kuliah**: Pemrograman Berorientasi Objek (PBO)
-- **Dosen Pengampu**: Bapak Arif Fitra Setyawan S.Pd., M.Kom.
-- **Tech Stack**: Java Swing (GUI), File I/O (CSV Storage), OOP Design
+This project was developed collaboratively by our awesome team:
+
+| Name | NIM |
+| :--- | :--- |
+| **Anisa Aulia** | 3.34.25.1.04 |
+| **Jizdan Yuflikh R** | 3.34.25.1.12 |
+| **Kafka Nafisa** | 3.34.25.1.13 |
+| **Nazriel Farras Khairiya P S** | 3.34.25.1.20 |
+
+## ℹ️ Informasi Proyek
+
+- **Mata Kuliah:** Pemrograman Berorientasi Objek (PBO)
+- **Dosen Pengampu:** Bapak Arif Fitra Setyawan S,Pd., M.Kom.
+- **Tech Stack:** Java Swing (GUI), File I/O (CSV Storage), OOP Design
 
 ## 📝 License
-This project is intended for educational purposes.
+This project is intended for educational purposes. © 2026 MoneyFlow Team. All Rights Reserved.
